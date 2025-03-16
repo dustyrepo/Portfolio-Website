@@ -5,9 +5,9 @@ Willkommen auf meiner Portfolio Website, dieses Projekt dient dazu meine Fähigk
 ## Preview
 
 Hier findest du screenshots von der Website:
-https://cdn.discordapp.com/attachments/976583295796121600/1350858286605275298/image.png?ex=67d84451&is=67d6f2d1&hm=02461380ce6fd1c158871b9f8d7c8eb074b90573c10bd1334497425de1bf16d0&
-https://cdn.discordapp.com/attachments/976583295796121600/1350858362681823273/image.png?ex=67d84463&is=67d6f2e3&hm=0eb027ab540fe6ccdaf866feb8f0398ad7c739cf1806c9b8fc1e6a898bb0b174&
-https://cdn.discordapp.com/attachments/976583295796121600/1350858421766848533/image.png?ex=67d84471&is=67d6f2f1&hm=dd556e54ae1d485ecf84ee8de3fee8542cd38d2cddc7c222505f8aecbb385bc7&
+[Screenshot 1](https://cdn.discordapp.com/attachments/976583295796121600/1350858286605275298/image.png?ex=67d84451&is=67d6f2d1&hm=02461380ce6fd1c158871b9f8d7c8eb074b90573c10bd1334497425de1bf16d0&)
+[Screenshot 2](https://cdn.discordapp.com/attachments/976583295796121600/1350858362681823273/image.png?ex=67d84463&is=67d6f2e3&hm=0eb027ab540fe6ccdaf866feb8f0398ad7c739cf1806c9b8fc1e6a898bb0b174&)
+[Screenshot 3](https://cdn.discordapp.com/attachments/976583295796121600/1350858421766848533/image.png?ex=67d84471&is=67d6f2f1&hm=dd556e54ae1d485ecf84ee8de3fee8542cd38d2cddc7c222505f8aecbb385bc7&)
 
 ## Features
 
