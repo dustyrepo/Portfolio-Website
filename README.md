@@ -48,4 +48,4 @@ Falls du etwas beitragen möchtest, kannst du das Repository forken und eine Pul
 Falls du Fragen hast, erreichst du mich hier:
 
 - E-Mail: dustyrepo@gmail.com
-- Twitter: [@deinhandle](https://twitter.com/dustyrepo)
+- Twitter: [@dustyrepo](https://twitter.com/dustyrepo)
