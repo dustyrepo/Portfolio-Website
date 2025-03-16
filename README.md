@@ -8,7 +8,7 @@ Du kannst das Preview meiner Website hier ansehen: [Website](https://dustyrepo.g
 
 ## Features
 
-- Präsentation meiner Projekte mit Beschreibungen und Links.
+- Beschreibungen mit Profilbild und Links.
 - Kleines Portfolio mit Bildern.
 - Kontaktformular für Anfragen.
 
